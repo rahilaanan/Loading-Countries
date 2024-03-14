@@ -2,3 +2,8 @@
     display: grid;
     grid-template-columns: repeat(3,1fr);
 }
+.flag img{
+    width: 80px;
+    height: 60px;
+   
+}
